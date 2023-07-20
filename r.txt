@@ -1,1 +1,8 @@
 numpy
+json_minify
+httpx
+requests
+setuptools
+websocket-client==1.3.1
+ujson
+easy-events==2.8.2
