@@ -1,6 +1,6 @@
 from base64 import b64encode, urlsafe_b64decode
 from time import time as timestamp
-from typing import Dict, List, Optional, Final
+from typing import Dict, List, Optional
 from hashlib import sha1
 from uuid import uuid4
 from json import loads
